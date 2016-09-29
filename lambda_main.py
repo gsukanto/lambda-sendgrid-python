@@ -2,7 +2,7 @@ import sendgrid
 import json
 
 SENDGRID_API_KEY = "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"
-EMAIL_FROM = "no-reply@testmokapos.com"
+EMAIL_FROM = "no-reply@mokapos.com"
 
 def make_email_to(emails):
     email_to = []
